@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.next/
+out/
+*.tsbuildinfo
+coverage/
+
+# Env files (secrets) — keep the template tracked
+.env
+.env.*
+!.env.example
+
+# Docs — internal planning docs stay local, README.md stays tracked
+*.md
+!README.md
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
