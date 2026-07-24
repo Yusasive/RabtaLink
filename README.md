@@ -5,8 +5,6 @@ professional connections — built around trusted human intermediaries ("Rabta
 Agents") and guardian consent, rather than a photo-first swipe feed. Works fully
 on feature phones; no app or smartphone data required for end users.
 
-Full product/technical background lives in [`PRD.md`](PRD.md), [`TRD.md`](TRD.md),
-[`UI-UX.md`](UI-UX.md), and the build log in [`Milestone.md`](Milestone.md).
 
 ## Architecture
 
